@@ -1,42 +1,12 @@
-# 🌍 STEM CHALLENGE: PAINTING THE FUTURE OF SMART SOCIETY 2045
-
-Welcome, young founding teams, to your final Capstone Project repository and management workspace! This is where your team will digitize your ideas, architect technological solutions, and build your "investment pitch profile" for the upcoming **Demo Day (Future Tech Showcase)**.
-
-<img width="1365" height="768" alt="mission-challenge" src="https://github.com/user-attachments/assets/df98f074-29d0-4663-ae57-688cc531fb08" />
-
----
-
-## 🛠️ STUDENT GUIDE (READ CAREFULLY BEFORE PROCEEDING)
-
-### 1. How to Initialize Your Team's Project from This Template
-* **Step 1:** The Team Representative (Team Leader/CEO) clicks the green **"Use this template"** button in the top right corner ➔ Select **"Create a new repository"**.
-* **Step 2:** Name your Repository using the following syntax: `Class_TeamName_ProjectName` (e.g., `STEM02_GreenBrain_WasteSorting`). Set the visibility to **Public**.
-* **Step 3:** Go to **Settings** ➔ **Collaborators** ➔ Click **Add people** to invite all team members and your Mentor(s) to co-manage the repository.
-
-### 2. Weekly Submission Roadmap (3-Week Timeline)
-* ⏰ **Deadline:** 11:59 PM every Saturday.
-* 📦 **Submission Method:** Teams upload image files/documents to the designated directories and update the corresponding content in **[PART II]** below.
-
-| Week | Tasks & Deliverables | Directory to Update on GitHub |
-| :--- | :--- | :--- |
-| **Week 1 (July 11)** | **Ideation Brainstorming & Systems Thinking Mapping**<br>- Allocate the 5 core roles within the team.<br>- Select 1 major societal challenge (Pollution, Traffic, Healthcare, etc.).<br>- Map out the cause-and-effect system diagram. | 📁 Upload the diagram image to: `/research_system`<br>📝 Complete the team profile in sections **1** and **2** below. |
-| **Week 2 (July 25)** | **Startup Architecture & Technological Solutions**<br>- Define Startup Name, Slogan, and Target Customers.<br>- Propose a solution integrating core technologies (AI, Robotics, IoT, etc.).<br>- Self-evaluate the project idea based on the 50-point matrix. | 📝 Update solution details and technological frameworks in sections **3** and **4** below. |
-| **Week 3 (August 1)** | **Smart Society Visual Conception & Final Slide Deck**<br>- Finalize the 2045 Smart Society Visual Conception Drawing.<br>- Synthesize the "Reflection & Knowledge Discovery" section.<br>- Prepare a 15-minute pitch deck for Demo Day. | 📁 Upload the conceptual drawing to: `/design_visuals`<br>📁 Upload the pitch deck (PDF) to: `/pitch_deck`<br>📝 Complete all remaining sections below. |
-
-*Note: Once your team is familiar with the workflow, you may delete **PART I** (Student Guide) and keep only **PART II** (Startup Profile) as the main landing page of your project repositor.*
-
----
 
 # [PART II] STARTUP PROFILE: THE CHRONICLES OF ARCHITECTING SMART SOCIETY 2045
 
-*Students begin documenting their team project from this point forward. Replace placeholder brackets `[...]` with your team's actual information.*
+## 🐞 1. STARTUP NAME: Debug
+* **Slogan:** Spot the pest, save the rest
+* **Class:** [STEM.03.26]
 
-## 🚀 1. STARTUP NAME: [Insert Team's Startup Name Here]
-* **Slogan:** "[Insert an inspiring project slogan]"
-* **Class:** [STEM.02.26]
-
-### 👥 Co-Founding Team (5 Core Roles - 5 Pillars of Synergy)
-1. **[Student 1 Full Name]** - **CEO (Chief Strategist):**
+### 👥 Co-Founding Team: 
+1. **Hồ Trần Châu Thảo** - **CEO (Chief Strategist):**
 * **Identity Image / Profile Picture:** [Insert CEO's profile picture or avatar here, or use markdown: ![CEO Name](image_url)]
 * **Responsibilities:** [e.g., Coordinating the team, conducting market research, and making final executive decisions.]
 2. **[Student 2 Full Name]** - **Social Researcher:**
