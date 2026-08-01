@@ -30,19 +30,19 @@
 ## ⚠️ 2. PROBLEM STATEMENT & SYSTEMS THINKING ANALYSIS
 * **Core Problem Statement:** Vietnamese farmers are trapped in an inefficient, reactive, and non-targeted crop management cycle, leading to high operational costs, significant environmental and health externalities, and reduced productivity. This precarious situation is severely compounded by a chronic and growing shortage of agricultural labor.
 * **Cause-and-Effect Deep Dive:**
-  * **Root Causes:**
-   - Manual Monitoring Inefficiencies: Reliance on physical, human inspection of fields, which is extremely time-consuming, subjective, and practically impossible at scale, especially during later crop growth stages.
-   -  Technological Gap: Absence of accessible, real-time, high-resolution data regarding specific pest or disease outbreaks within the vast field landscape.
-   -  Labor Market Dynamics: Aging agricultural population and significant migration of younger workers from rural areas to urban centers, leaving a void in the farm workforce.
-   -   Treat-After-Infestation Mindset: Traditional farming practices that favor whole-field remedial spraying after damage is already visible, rather than proactive, targeted preventative measures.
-  * **Direct Consequences:**
-   - Reactive & Delayed Response: Pests/diseases are detected only after significant spread, leading to extensive crop damage and yield loss.
-   -  Escalated Input Costs: Financial strain from purchasing large quantities of chemical pesticides and paying for scarce, high-cost manual labor.
-   -  Negative Externalities: Comprehensive spraying causes substantial environmental degradation (soil erosion, water contamination, loss of biodiversity) and increases acute and chronic health risks for farmers exposed directly to toxic chemicals.
-   -  Compromised Food Security: The combined effects of reduced yields and residue-contaminated produce threaten local and national food supplies.
+  * 🪾**Root Causes:**
+  * [ ] Manual Monitoring Inefficiencies: Reliance on physical, human inspection of fields, which is extremely time-consuming, subjective, and practically impossible at scale, especially during later crop growth stages.
+  * [ ]  Technological Gap: Absence of accessible, real-time, high-resolution data regarding specific pest or disease outbreaks within the vast field landscape.
+  * [ ]  Labor Market Dynamics: Aging agricultural population and significant migration of younger workers from rural areas to urban centers, leaving a void in the farm workforce.
+  * [ ]  Treat-After-Infestation Mindset: Traditional farming practices that favor whole-field remedial spraying after damage is already visible, rather than proactive, targeted preventative measures.
+  * 🌾**Direct Consequences:**
+    * [ ] Reactive & Delayed Response: Pests/diseases are detected only after significant spread, leading to extensive crop damage and yield loss.
+    * [ ]  Escalated Input Costs: Financial strain from purchasing large quantities of chemical pesticides and paying for scarce, high-cost manual labor.
+    * [ ]  Negative Externalities: Comprehensive spraying causes substantial environmental degradation (soil erosion, water contamination, loss of biodiversity) and increases acute and chronic health risks for farmers exposed directly to toxic chemicals.
+    * [ ]  Compromised Food Security: The combined effects of reduced yields and residue-contaminated produce threaten local and national food supplies.
 
-*Detailed Systems Thinking Map (Attach the image file from the /research_system directory):*
-![Systems Thinking Diagram](research_system/[team_image_filename].png)
+**Workflow:*
+![Systems Thinking Diagram](research_system/[Workflow].png)
 
 ---
 
@@ -60,7 +60,8 @@
 ## 🎨 4. SMART SOCIETY VISUAL CONCEPTION 2045
 *Describe your future vision when the startup's solution is widely integrated into modern urban life.*
 
-![Smart Society Visual 2045]((https://share.gemini.google/zc1CTmwsbr2x))
+![Smart Society Visual 2045](design_visuals/[Futurework].png) 
+![Web visual]
 
 ---
 
