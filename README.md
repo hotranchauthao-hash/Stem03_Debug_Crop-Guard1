@@ -10,7 +10,7 @@
 * **Identity Image / Profile Picture:** ![Hồ Trần Châu Thảo(image_url)]
 * **Responsibilities:** Conceptualizing the core idea, driving the product vision, and leading the team to build the drone system from the ground up.
 
-2. **[Student 2 Full Name]** - **Social Researcher:**
+2. **Nguyễn Bảo Tường** - **Social Researcher:**
 * **Identity Image / Profile Picture:** [Insert Social Researcher's profile picture or avatar here, or use markdown: ![Researcher Name](image_url)]
 * **Responsibilities:** [e.g., Gathering statistical data, mapping customer pain points, and identifying community needs.]
 
