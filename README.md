@@ -42,7 +42,7 @@
     * [ ]  Compromised Food Security: The combined effects of reduced yields and residue-contaminated produce threaten local and national food supplies.
 
 **Workflow:*
-![Systems Thinking Diagram](research_system/[Workflow].png)
+![Systems Thinking Diagram](research_system/Workflow.png) 
 
 ---
 
