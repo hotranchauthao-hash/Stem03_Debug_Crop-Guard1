@@ -13,7 +13,7 @@
 * **Profile Picture:** [Insert Social Researcher's profile picture or avatar here, or use markdown: ![Researcher Name](image_url)]
 * **Responsibilities:** [e.g., Gathering statistical data, mapping customer pain points, and identifying community needs.]
 
-3. **[Student 3 Full Name]** - **Technology Architect:**
+3. **Nguyễn Minh Quân** - **Technology Architect:**
 * **Identity Image / Profile Picture:** [Insert Technology Architect's profile picture or avatar here, or use markdown: ![Architect Name](image_url)]
 * **Responsibilities:** [e.g., Designing and executing the technical architecture (AI, Robotics, Drones, IoT, etc.).]
 
