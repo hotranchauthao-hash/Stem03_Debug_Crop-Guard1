@@ -10,12 +10,10 @@
 * **Responsibilities:** Conceptualizing the core idea, driving the product vision, and leading the team to build the drone system from the ground up.
 
 2. **Nguyễn Bảo Tường** - **Social Researcher:**
-* **Profile Picture:** [Insert Social Researcher's profile picture or avatar here, or use markdown: ![Researcher Name](image_url)]
 * **Responsibilities:** [e.g., Gathering statistical data, mapping customer pain points, and identifying community needs.]
 
 3. **Nguyễn Minh Quân** - **Technology Architect:**
-* **Identity Image / Profile Picture:** [Insert Technology Architect's profile picture or avatar here, or use markdown: ![Architect Name](image_url)]
-* **Responsibilities:** [e.g., Designing and executing the technical architecture (AI, Robotics, Drones, IoT, etc.).]
+* **Responsibilities:** Creating, crafting, consolidating new frontiers of technology to apply to the products.
 
 4. **Trì Nam An** - **UX/Experience Designer:**
 * **Responsibilities:** Designing intuitive user experiences and interfaces, creating user flows and prototypes, and ensuring seamless interaction between users and the drone system across all touchpoints.
