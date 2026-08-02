@@ -18,7 +18,7 @@
 * **Responsibilities:** [e.g., Designing and executing the technical architecture (AI, Robotics, Drones, IoT, etc.).]
 
 4. **Trì Nam An** - **UX/Experience Designer:**
-* **Responsibilities:** [e.g., In charge of conceptual drawings, application user interfaces, and slide deck visualization.]
+* **Responsibilities:** Designing intuitive user experiences and interfaces, creating user flows and prototypes, and ensuring seamless interaction between users and the drone system across all touchpoints.
 
 5. **[Student 5 Full Name]** - **Venture Investor:**
 * **Identity Image / Profile Picture:** [Insert Venture Investor's profile picture or avatar here, or use markdown: ![Investor Name](image_url)]
