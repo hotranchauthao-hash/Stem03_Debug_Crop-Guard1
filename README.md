@@ -7,7 +7,6 @@
 
 ### 👥 Co-Founding Team: 
 1. **Hồ Trần Châu Thảo** - **CEO (Chief Strategist):**
-* **Profile Picture:** ![Hồ Trần Châu Thảo(image_url)]
 * **Responsibilities:** Conceptualizing the core idea, driving the product vision, and leading the team to build the drone system from the ground up.
 
 2. **Nguyễn Bảo Tường** - **Social Researcher:**
