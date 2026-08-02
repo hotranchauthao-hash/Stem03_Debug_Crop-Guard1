@@ -58,7 +58,6 @@
 ---
 
 ## 🎨 4. SMART SOCIETY VISUAL CONCEPTION 2045
-*Describe your future vision when the startup's solution is widely integrated into modern urban life.*
 
 ![Smart Society Visual 2045](design_visuals/Futureimage.png) 
 ![Web visual](design_visuals/Visual.png) 
