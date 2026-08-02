@@ -7,11 +7,11 @@
 
 ### 👥 Co-Founding Team: 
 1. **Hồ Trần Châu Thảo** - **CEO (Chief Strategist):**
-* **Identity Image / Profile Picture:** ![Hồ Trần Châu Thảo(image_url)]
+* **Profile Picture:** ![Hồ Trần Châu Thảo(image_url)]
 * **Responsibilities:** Conceptualizing the core idea, driving the product vision, and leading the team to build the drone system from the ground up.
 
 2. **Nguyễn Bảo Tường** - **Social Researcher:**
-* **Identity Image / Profile Picture:** [Insert Social Researcher's profile picture or avatar here, or use markdown: ![Researcher Name](image_url)]
+* **Profile Picture:** [Insert Social Researcher's profile picture or avatar here, or use markdown: ![Researcher Name](image_url)]
 * **Responsibilities:** [e.g., Gathering statistical data, mapping customer pain points, and identifying community needs.]
 
 3. **[Student 3 Full Name]** - **Technology Architect:**
@@ -67,8 +67,8 @@
 
 ## 🧠 5. REFLECTION & KNOWLEDGE DISCOVERY
 Following a 3-week journey of intensive co-creation, our founding team has distilled the following key insights:
-* **We discovered that:** [Insert a unique core insight or newly uncovered perspective regarding the problem that challenged your initial assumptions].
-* **We learned that:** [Insert the most profound takeaway regarding the synergy between Technology and Humanity, or high-performance teamwork dynamics].
+* **We discovered that:** People need a safe, simulated environment to experience and learn from deceptive tactics before they face them in the real world.
+* **We learned that:** Educational tech works best as a supportive guide, not just a warning bell. Behind the scenes, we learned that matching a powerful database with a simple, human-centered user flow is the ultimate key to delivering a great learning experience.
 * **Our most unique innovation/competitive edge is:** [Insert the distinct value proposition that sets your startup apart from existing market alternatives].
 
 ---
