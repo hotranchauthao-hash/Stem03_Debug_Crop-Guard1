@@ -17,8 +17,7 @@
 * **Identity Image / Profile Picture:** [Insert Technology Architect's profile picture or avatar here, or use markdown: ![Architect Name](image_url)]
 * **Responsibilities:** [e.g., Designing and executing the technical architecture (AI, Robotics, Drones, IoT, etc.).]
 
-4. **[Student 4 Full Name]** - **UX/Experience Designer:**
-* **Identity Image / Profile Picture:** [Insert UX Designer's profile picture or avatar here, or use markdown: ![Designer Name](image_url)]
+4. **Trì Nam An** - **UX/Experience Designer:**
 * **Responsibilities:** [e.g., In charge of conceptual drawings, application user interfaces, and slide deck visualization.]
 
 5. **[Student 5 Full Name]** - **Venture Investor:**
